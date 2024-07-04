@@ -7,4 +7,4 @@ $PROD = $a * $b;
 
 echo"PROD = " . $PROD . PHP_EOL;
 
-//link do problema no beecrowd https://judge.beecrowd.com/pt/problems/view/1003
+//link do problema no beecrowd https://judge.beecrowd.com/pt/problems/view/1004
